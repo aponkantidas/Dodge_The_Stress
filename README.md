@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/60ed4b50-8815-4eb6-aa1f-5b2e8fba2f3a" width="300">
+<img src="https://github.com/user-attachments/assets/6bd39a8d-9c6c-4fd4-a31e-0e959ac0d44b" width="200">
 
 
 # Dodge Master
