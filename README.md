@@ -36,7 +36,7 @@ A fast-paced mobile game for Android where you control a brain character and dod
 
 ## Installation
 
-- Download the APK file from latest [release]()
+- Download the APK file from latest [release](https://github.com/aponkantidas/Dodge_The_Stress/releases/tag/V1)
 
 - Install it on your device.
 
