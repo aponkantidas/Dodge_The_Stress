@@ -1,21 +1,24 @@
 <img src="https://github.com/user-attachments/assets/6bd39a8d-9c6c-4fd4-a31e-0e959ac0d44b" width="200">
 
 
-# Dodge Master
+# Dodge The Stress
 
-Dodge Battle is a retro-style arcade game where players control BoxBob, a student so bored that he put himself inside a box to escape studying! Now, he must dodge incoming alphabets flying from his Slide and Notes. Test your reflexes and keep BoxBob safe for as long as possible!
+A fast-paced mobile game for Android where you control a brain character and dodge falling stress spikes (Exams, Presentations, Coding) to survive as long as possible. Simple controls and engaging gameplay.
 
 ## Features
-- Day/Night Theme – Switch between light and dark modes with adjustable brightness and contrast for the best gaming experience.
-- Retro Pixel-Art Design 🎨 – A nostalgic arcade look with vibrant pixel graphics.
-- Fast-Paced, Addictive Gameplay 🚀 – Test your reflexes and survive as long as possible!
-- Intuitive Controls – Easy to pick up, but challenging to master.
+- Player controls a brain character using touch gestures.
+- Falling spikes randomly drop, player must avoid them.
+- Points increase as spikes fall to the ground without hitting the brain.
+- Life system (3 lives) represented by a color-changing health bar (Green → Yellow → Red).
+- Explosions animation when spikes hit the ground.
+- Scoring system and high-score saving.
+- Game over screen triggered when life reaches zero.
+- Option to restart or exit the game
 
 
 ## Platform
 - Android
-- [Web app](https://dodge-master.netlify.app/)
-- IOS (Go to Web App and Download it)
+- IOS/Web (Coming soon)
 
 
 ## Screenshots
@@ -33,7 +36,7 @@ Dodge Battle is a retro-style arcade game where players control BoxBob, a studen
 
 ## Installation
 
-- Download the APK file from latest [release](https://github.com/nihal4/Dodge_Master/releases/tag/Dodge_Master_v1.0.2)
+- Download the APK file from latest [release]()
 
 - Install it on your device.
 
@@ -41,12 +44,13 @@ Dodge Battle is a retro-style arcade game where players control BoxBob, a studen
 
 
 
+
 ## Technologies Used
-- <img src="https://github.com/user-attachments/assets/a9bd2e4a-b2d6-43f2-8d0f-3edb6a27a2cc" width="30"> Flutter 
-- <img src="https://github.com/user-attachments/assets/6c87fbc0-28cf-45b3-baef-6a5fe3a6ae27" width="30">  Dart: Programming language for game logic.
+- <img src="https://github.com/user-attachments/assets/7feb45ce-0359-4373-b5fd-1c071d4c7748" width="30"> Android Studio 
+- <img src="https://github.com/user-attachments/assets/e395b259-e17e-4d27-8115-aa7bc46292af" width="30">  Java: Programming language for game logic.
 
 ## Authors
-- [S. M. Nihal Ahmed](https://github.com/nihal4)
+- [Apon Kanti Das](https://github.com/aponkantidas)
 
 
 ## License
